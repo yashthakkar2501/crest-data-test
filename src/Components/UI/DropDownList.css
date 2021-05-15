@@ -1,0 +1,68 @@
+.Rectangle-7-Copy-17 {
+    width: 140px;
+    height: 26px;
+    margin-left:8.7rem;
+    padding: 3px 12px 3px 8px;
+    border-radius: 2px;
+    border: solid 1px #e4e4e4;
+    background-color: #ffffff;
+    display:flex;
+    justify-content: space-around;
+  }
+
+  .Rectangle-8 {
+    width: 300px;
+    height: 100%;
+    border-radius: 2px;
+    box-shadow: 0 11px 20px 0 rgba(0, 0, 0, 0.05);
+    border: solid 1px #e1e1e1;
+    background-color: #ffffff;
+    margin-top:0.3rem
+  }
+  
+  .Rectangle-8-Copy {
+   
+    height: 50px;
+    margin: 1px 1.5px 8px;
+    display:flex;
+    flex-direction: column;
+    padding:0.6rem;
+    opacity: 0.75;
+    
+
+  }
+  .Rectangle-8-Copy-backgroundColor{
+    background-color: #f2f2f2;
+  }
+  .Not-watching {
+    
+   
+    text-shadow: 0 0 4px rgba(0, 0, 0, 0);
+    font-family: OpenSans;
+    font-size: 12px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #333333;
+  }
+  .no-email-notification {
+   
+    
+    text-shadow: 0 0 4px rgba(0, 0, 0, 0);
+    font-family: OpenSans;
+    font-size: 12px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #ababab;
+  }
+
+  .logo-rectangle9{
+    width:12px;
+    height:12px;
+    
+  }

@@ -1,0 +1,22 @@
+export const Inventory=[
+  {
+  "uid":"1a2",
+  "stock":10
+  },
+  {
+    "uid":"1a3",
+    "stock":11
+  },
+  {
+    "uid":"1a4",
+    "stock":9
+  },
+  {
+    "uid":"1a5",
+    "stock":5
+  },
+  {
+    "uid":"1a6",
+    "stock":4
+  }
+]

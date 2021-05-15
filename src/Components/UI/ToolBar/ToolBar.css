@@ -1,0 +1,19 @@
+.Toolbar{
+    background-color: rgba(221, 218, 218, 0.815);
+    top:0;
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    position: fixed;
+    justify-content: space-between;
+    display: flex;
+}
+.Toolbar img{
+    height: 35px;
+    width: 35px;
+    margin: 7px;
+    
+}
+.Success{
+border-bottom: 4px green solid;
+}
