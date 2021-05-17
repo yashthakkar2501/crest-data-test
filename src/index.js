@@ -7,7 +7,7 @@ import {createStore, combineReducers,compose} from 'redux'
 import Cart from './Redux/Reducers/Cart'
 
 
-const Store=createStore(Cart, window.__REDUX_DEVTOOLS_EXTENSION__ && window.__REDUX_DEVTOOLS_EXTENSION__())
+const Store=createStore(Cart)
 
 ReactDOM.render(
 <Provider store={Store}>
